@@ -6,6 +6,14 @@
 </p>
 <h3 align="center">A front end developer from India 🇮🇳</h3>
 
-<p align="center">
+### Talking about Personal Stuffs:
+
+- 🛠 I’m currently working with Html5 , css3, Vanilla javascript , React.js etc 💻.
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Abhishek9608).
+- 👾 Fun fact: Equal is Not Always Equal in Javascript.
+- 📫 How to reach me: abhishekkumar9608@gmail.com
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1YVjJmdEXn1l2p5ermQCkbxeCV1hJihdb/view).
+
+<p>
 	<img src=https://github-readme-stats.vercel.app/api?username=Abhishek9608&show_icons=true alt=Abhishek />
 </p>
